@@ -1,0 +1,10 @@
+{
+  "name": "rmods-storage",
+  "version": "0.1.3",
+  "title": "RMods Storage",
+  "author": "Raul C.",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Vanilla-like storage for fluids and items.",
+  "homepage": "https://github.com/RaulCotar"
+}
