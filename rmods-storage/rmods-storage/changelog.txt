@@ -1,0 +1,5 @@
+Version: 1.1.60
+Date: 27. 02. 2023
+  Major Features:
+    - Initial release
+	- Mod contains 3 tanks without proper sprites.

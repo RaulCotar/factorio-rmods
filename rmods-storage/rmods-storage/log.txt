@@ -1,0 +1,79 @@
+   0.000 2023-03-03 11:51:03; Factorio 1.1.76 (build 60350, linux64, full)
+   0.000 Operating system: Linux
+   0.000 Program arguments: "factorio" 
+   0.000 Config path: /home/raul/.factorio/config/config.ini
+   0.000 Read data path: /usr/share/factorio
+   0.000 Write data path: /home/raul/.factorio [203738/237946MB]
+   0.000 Binaries path: /usr
+   0.005 System info: [CPU: Intel(R) Core(TM) i7-4712MQ CPU @ 2.30GHz, 8 cores, RAM: 15893 MB]
+   0.005 Environment: DISPLAY=:0 WAYLAND_DISPLAY=wayland-1 DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=sway __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.005 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.025 Available displays: 2
+   0.025  [0]: XWAYLAND0 15" - {[0,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.025  [1]: XWAYLAND1 23" - {[1920,0], 1920x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.173 Initialised OpenGL:[0] Mesa Intel(R) HD Graphics 4600 (HSW GT2); driver: 4.6 (Core Profile) Mesa 23.0.0
+   0.173   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes
+   0.173   [Version] 4.6
+   0.188 Graphics settings preset: integrated-gpulow
+   0.188   Dedicated video memory size 1536 MB (detected from Intel(R) HD Graphics 4600 (HSW GT2); VendorID: 0x8086; DeviceID: 0x 416)
+   0.254 Graphics options: [Graphics quality: normal] [Video memory usage: all] [DXT: low-quality] [Color: 32bit]
+   0.254                   [Max threads (load/render): 32/8] [Max texture size: 4096] [Tex.Stream.: 0] [Rotation quality: low] [Other: sTDCwt] [B:0,C:0,S:100]
+   0.317 [Audio] Backend:SDL(default); Driver:pulseaudio, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   0.434 Error ModManager.cpp:994: Mod package read error. File /home/raul/.factorio/mods/rmods-storage_0.1.0.zip/info.json not found
+   0.444 Loading mod core 0.0.0 (data.lua)
+   0.488 Loading mod base 1.1.76 (data.lua)
+   0.658 Loading mod base 1.1.76 (data-updates.lua)
+   0.769 Checksum for core: 870127790
+   0.769 Checksum of base: 3065294274
+   0.970 Prototype list checksum: 3034860339
+   1.021 Loading sounds...
+   1.048 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1677840577
+   1.048 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+   1.195 Initial atlas bitmap size is 4096
+   1.214 Created atlas bitmap 4096x4068 [none]
+   1.233 Created atlas bitmap 4096x4092 [none]
+   1.241 Created atlas bitmap 4096x4092 [none]
+   1.250 Created atlas bitmap 4096x4096 [none]
+   1.257 Created atlas bitmap 4096x4092 [none]
+   1.265 Created atlas bitmap 4096x4084 [none]
+   1.273 Created atlas bitmap 4096x4076 [none]
+   1.276 Created atlas bitmap 4096x3500 [linear-magnification]
+   1.278 Created atlas bitmap 4096x2120 [decal]
+   1.288 Created atlas bitmap 4096x4096 [low-object]
+   1.290 Created atlas bitmap 4096x1744 [low-object]
+   1.293 Created atlas bitmap 4096x2464 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   1.303 Created atlas bitmap 4096x4096 [terrain, mipmap, linear-minification, linear-mip-level]
+   1.308 Created atlas bitmap 4096x3456 [terrain, mipmap, linear-minification, linear-mip-level]
+   1.309 Created atlas bitmap 4096x1632 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   1.311 Created atlas bitmap 4096x1664 [smoke, mipmap, linear-minification, linear-magnification]
+   1.312 Created atlas bitmap 4096x928 [mipmap]
+   1.335 Created atlas bitmap 4096x4096 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   1.336 Created atlas bitmap 4096x256 [icon, not-compressed, mipmap, linear-minification, linear-magnification]
+   1.337 Created atlas bitmap 4096x828 [alpha-mask]
+   1.349 Created atlas bitmap 4096x4084 [shadow, linear-magnification, alpha-mask]
+   1.356 Created atlas bitmap 4096x4096 [shadow, linear-magnification, alpha-mask]
+   1.360 Created atlas bitmap 4096x4096 [shadow, linear-magnification, alpha-mask]
+   1.362 Created atlas bitmap 4096x3108 [shadow, linear-magnification, alpha-mask]
+   1.363 Created atlas bitmap 4096x1328 [shadow, mipmap, linear-magnification, alpha-mask]
+   1.363 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   1.374 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   1.603 Parallel Sprite Loader initialized (threads: 7)
+   5.515 Sprites loaded
+   5.559 Generated mipmaps (3) for atlas [9] of size 4096x4096   
+   5.570 Generated mipmaps (3) for atlas [10] of size 4096x1744   
+   5.580 Generated mipmaps (3) for atlas [11] of size 4096x2464   
+   5.592 Generated mipmaps (3) for atlas [12] of size 4096x4096   
+   5.606 Generated mipmaps (3) for atlas [13] of size 4096x3456   
+   5.612 Generated mipmaps (3) for atlas [14] of size 4096x1632   
+   5.618 Generated mipmaps (3) for atlas [15] of size 4096x1664   
+   5.636 Generated mipmaps (3) for atlas [16] of size 4096x928   
+   5.647 Generated mipmaps (5) for atlas [17] of size 4096x4096   
+   5.650 Generated mipmaps (5) for atlas [18] of size 4096x256   
+   5.656 Generated mipmaps (3) for atlas [24] of size 4096x1328   
+   5.665 Custom mipmaps uploaded.
+   5.731 Factorio initialised
+   5.732 Info HttpSharedState.cpp:54: Downloading https://updater.factorio.com/updater/get-available-versions?username=IceTeaFoot&token=<private>&apiVersion=2
+   6.190 0 packages available to download (experimental updates enabled).
+   7.308 Info HttpSharedState.cpp:54: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.76&lang=en
+  14.944 Quitting: user-quit.
+  15.086 Goodbye

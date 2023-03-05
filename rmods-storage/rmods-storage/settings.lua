@@ -2,14 +2,14 @@ data:extend(
 {
     {
         type = "bool-setting",
-        name = "rmods-enable-underground-passive-tank",
+        name = "rmods-enable-underground-tank",
         setting_type = "startup",
         default_value = true,
         order = "0"
     },
     {
         type = "bool-setting",
-        name = "rmods-enable-underground-active-tank",
+        name = "rmods-enable-powered-underground-tank",
         setting_type = "startup",
         default_value = true,
         order = "1"
